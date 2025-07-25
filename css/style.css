@@ -1,0 +1,28 @@
+:root {
+
+    --fundo-principal:#eed9c4;
+    --fundo-produtos-principal:#FFFAF0;
+    
+    }
+
+
+body{
+    background-color: var(--fundo-principal);
+
+    }
+
+
+.bigSale{
+    display: flex;
+    background-color:#C8C8C8	 ;
+    padding: 3rem;
+    margin: 10px;
+    align-content: center;
+    
+}
+
+.mostruario{
+    
+    list-style-type: none;
+
+    }

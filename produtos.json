@@ -1,0 +1,93 @@
+[
+  {
+    "nome": "Camiseta Básica Branca",
+    "preco": 49.90,
+    "descricao": "Camiseta unissex de algodão, ideal para o dia a dia. Leve e confortável.",
+    "imagem": "https://i.pinimg.com/736x/70/11/b2/7011b22e2ba6da33b158260c4645fa53.jpg"
+  },
+  {
+    "nome": "Tênis Esportivo Running",
+    "preco": 199.90,
+    "descricao": "Tênis esportivo com solado emborrachado, ideal para corridas e treinos.",
+    "imagem": "https://img.freepik.com/psd-gratuitas/sapatos-de-corrida-ou-tenis-com-fundo-transparente_84443-1608.jpg"
+  },
+  {
+    "nome": "Mochila Casual Preta",
+    "preco": 149.00,
+    "descricao": "Mochila resistente com compartimento para notebook, perfeita para o dia a dia.",
+    "imagem": "https://w7.pngwing.com/pngs/1006/718/png-transparent-handbag-backpack-satchel-pure-black-backpack-schoolbag-png-material-luggage-bags-black-hair-thumbnail.png"
+  },
+  {
+    "nome": "Relógio Analógico Masculino",
+    "preco": 299.99,
+    "descricao": "Relógio com pulseira de couro sintético e resistência à água até 30m.",
+    "imagem": "https://images.creativefabrica.com/products/previews/2023/09/12/i5MNVjkeg/2arOyk7quVsTPX0oTHGGxEiCHRJ-mobile.jpg"
+  },
+  {
+    "nome": "Óculos de Sol Aviador",
+    "preco": 89.90,
+    "descricao": "Óculos com proteção UV400 e armação metálica leve e resistente.",
+    "imagem": "https://img.freepik.com/psd-gratuitas/oculos-de-sol-de-aviador-quadro-dourado-lentes-azuis-acessorio-de-verao-elegante_191095-79352.jpg?semt=ais_hybrid&w=740"
+  },
+  {
+    "nome": "Bolsa Feminina Transversal",
+    "preco": 119.50,
+    "descricao": "Bolsa elegante com alça regulável e espaço interno ideal para o dia a dia.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLmstR9Ki2fQkYQIaXTro_w2ayVYJbG3f6A&s"
+  },  {
+    "nome": "Blusa de Moletom Unissex",
+    "preco": 129.90,
+    "descricao": "Moletom confortável com capuz e bolso canguru, ideal para dias frios.",
+    "imagem": "https://w7.pngwing.com/pngs/859/270/png-transparent-hoodie-amazon-com-sweater-bluza-unisex-others-miscellaneous-white-fashion.png"
+  },{
+    "nome": "Calça Jeans Slim Masculina",
+    "preco": 139.00,
+    "descricao": "Calça jeans com corte slim e lavagem escura. Visual moderno e versátil.",
+    "imagem": "https://w7.pngwing.com/pngs/740/477/png-transparent-jeans-slim-fit-pants-clothing-zipper-men-jeans-zipper-blue-fashion-thumbnail.png"
+  }, {
+    "nome": "Vestido Estampado Floral",
+    "preco": 159.90,
+    "descricao": "Vestido leve e fluido com estampa floral, perfeito para o verão.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWS78V1FiRYzaVUSyyAnSCr2_ERo5_JAIDXHQagIye07KhoZMK35Z2MMsvKUBySguwcM&usqp=CAU"
+  },{
+    "nome": "Fone de Ouvido Bluetooth",
+    "preco": 179.90,
+    "descricao": "Fone sem fio com microfone integrado e autonomia de até 8 horas.",
+    "imagem": "https://img.lovepik.com/png/20231105/black-and-transparent-bluetooth-headset-headphones-stereoscopic-mobile-phone-accessories_500168_wh860.png"
+  },{
+    "nome": "Jaqueta Jeans Feminina",
+    "preco": 189.00,
+    "descricao": "Jaqueta jeans clássica com botões metálicos. Estilo e durabilidade.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmEIyttXV-uJK4a8t0yr5EmMEXbB2794M7_7i_zGlnE6Fr9dZgFTBC_hGw4WgzTpBhOEk&usqp=CAU"
+  },
+  {
+    "nome": "Carteira de Couro Masculina",
+    "preco": 79.90,
+    "descricao": "Carteira compacta com divisórias para cartões e cédulas.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGMC6GU2f3PudSVKTyS4TZ9Ctw9ZWDzP7tE6Spnx00TQvNSGuETTJi-0xWRp1Eo_v6rQE&usqp=CAU"
+  },
+  {
+    "nome": "Sandália Rasteira Feminina",
+    "preco": 59.90,
+    "descricao": "Sandália confortável para uso casual, com tiras delicadas.",
+    "imagem": "https://png.pngtree.com/png-vector/20201224/ourmid/pngtree-womens-sandals-womens-shoes-summer-cool-ladies-png-image_2618751.jpg"
+  },
+  {
+    "nome": "Boné Ajustável Estilo Trucker",
+    "preco": 49.90,
+    "descricao": "Boné com tela traseira e aba curva. Ideal para looks casuais.",
+    "imagem": "https://png.pngtree.com/png-vector/20240908/ourmid/pngtree-a-black-and-white-trucker-cap-with-structured-front-breathable-mesh-png-image_13788821.png"
+  },
+  {
+    "nome": "Camisa Social Masculina",
+    "preco": 119.00,
+    "descricao": "Camisa elegante em algodão com caimento slim e colarinho clássico.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhNuVgfpkBC72i06zlChSCwMiWZfxYtjm-JDdxyoKErTru3CJ78RLJWx4ArAraZbw-9I&usqp=CAU"
+  },
+  {
+    "nome": "Tênis Casual Branco Feminino",
+    "preco": 189.90,
+    "descricao": "Tênis branco com design minimalista, ideal para o dia a dia.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX9N0f0-N0qa9hwsZXkxf8r_E3PH6jurVUM0cUhYr5qIFzksbzI_2M8OU2dpo32dMS_E&usqp=CAU"
+  }
+]
