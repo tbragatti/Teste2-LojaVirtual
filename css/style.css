@@ -1,28 +1,69 @@
 :root {
 
-    --fundo-principal:#eed9c4;
+    --fundo-principal:#f8f6f4;
     --fundo-produtos-principal:#FFFAF0;
     
-    }
+}
+
+*{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
 
 
 body{
+
     background-color: var(--fundo-principal);
 
     }
 
 
 .bigSale{
+    
     display: flex;
-    background-color:#C8C8C8	 ;
-    padding: 3rem;
+    background-color:#d4d6d7;
+    padding: 2rem;
     margin: 10px;
-    align-content: center;
+    justify-content: center;
+    color: white;
+    
+}
+
+.cabecalho{
+
+    display:flex;
+    margin: 1rem;
+    
+    
+}
+
+.cabecalho__titulo{
+
+    
+}
+
+
+.cabecalho__direita{
+
+   padding-left: 60%;
+   padding-top: 10%;
+   position: absolute;
+   word-spacing: 15px;
     
 }
 
 .mostruario{
-    
-    list-style-type: none;
 
-    }
+   
+
+}
+
+.mostruario__titulo{
+    display: block;
+    
+    
+    
+    
+
+}
