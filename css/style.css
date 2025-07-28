@@ -53,17 +53,13 @@ body{
     
 }
 
-.mostruario{
+#mostruario{
+
+   display: flex;
+   flex-direction: column;
+   font-size: small;
 
    
 
 }
 
-.mostruario__titulo{
-    display: block;
-    
-    
-    
-    
-
-}
