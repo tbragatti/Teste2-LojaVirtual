@@ -38,10 +38,6 @@ body{
     
 }
 
-.cabecalho__titulo{
-
-    
-}
 
 
 .cabecalho__direita{
@@ -56,10 +52,29 @@ body{
 #mostruario{
 
    display: flex;
-   flex-direction: column;
-   font-size: small;
+   flex-direction: row;
+   list-style-type: none;
+   flex-wrap: wrap;
+   justify-content: center;
+   font-size: xx-small;
+   align-content: center;
 
-   
+}
+
+
+.mostruario__container{
+    
+    padding: 1em;
+    margin: 10px;
+    border: 2px solid black;
+
+}
+
+.mostruario__imagem{
+
+    height: 20vh;
+    width: 20vh;
+    
 
 }
 

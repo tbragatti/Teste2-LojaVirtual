@@ -10,11 +10,13 @@ fetch ("/produtos.json").then(res => res.json()).then(produtos => {
 
         cardProduto.innerHTML = 
 
-        `<img src=${produto.imagem} alt="Dinosaur" />
-        <h1> ${produto.nome}<h1>
-        <h2> ${produto.preco}<h2>
-        <h2> ${produto.descricao}<h2>
-        `
+        `<div class= "mostruario__container">
+        <img src="${produto.imagem}" class="mostruario__imagem" />
+        <h1 class= "mostruario__titulo"> ${produto.nome}<h1>
+        <h2 class= "mostruario__preco"> ${produto.preco}<h2>
+        <h2 class= "mostruario__descricao"> ${produto.descricao}<h2>
+        </div>`
+        
 
         listaProdutos.appendChild(cardProduto)
 
