@@ -13,7 +13,7 @@ fetch ("/produtos.json").then(res => res.json()).then(produtos => {
         `<div class= "mostruario__container">
         <img src="${produto.imagem}" class="mostruario__imagem" />
         <h1 class= "mostruario__titulo"> ${produto.nome}<h1>
-        <h2 class= "mostruario__preco"> ${produto.preco}<h2>
+        <h2 class= "mostruario__preco"> R$ ${produto.preco}<h2>
         <h2 class= "mostruario__descricao"> ${produto.descricao}<h2>
         </div>`
         
