@@ -95,7 +95,7 @@ body{
 }
 
 
-.mostruario__container{
+#mostruario__container{
     
     height: 30vh;
     width: 30vh;
@@ -114,3 +114,11 @@ body{
     
 }
 
+#detalhes-produto{
+
+    text-align: center;
+    padding: 5px;
+    
+
+    
+}
