@@ -1,4 +1,3 @@
-<!-- produto.html -->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -6,39 +5,23 @@
     <title>Detalhes do Produto</title>
     <link rel="stylesheet" href="/css/style.css">
 </head>
-<body>
-    <header class="cabecalho"> 
+<body class="detalhes__body">
+    <header class="cabecalho__detalhes"> 
         <h3 class= "cabecalho__titulo">TechNova</h3>
         <nav class="cabecalho__direita">
-            <a class="cabecalho__home" >Home</a>
+            <a class="cabecalho__home" href="/index.html">Home</a>
             <a class= "cabecalho__about" href="/pages/about.html">About</a>
         </nav>
     </header>
-    <div id="detalhes-produto"></div>
-    <script>
-        
-        const params = new URLSearchParams(window.location.search);
-        const id = params.get('id');
 
-        fetch('/produtos.json')
-            .then(res => res.json())
-            .then(produtos => {
-                const produto = produtos.find(p => p.id == id);
-                if (produto) {
-                    document.getElementById('detalhes-produto').innerHTML = `
-                        <img src="${produto.imagem}" />
-                        <h1>${produto.nome}</h1>
-                        <h2>R$ ${produto.preco}</h2>
-                        <p>${produto.descricao}</p>
-                    `;
-                } else {
-                    document.getElementById('detalhes-produto').innerText = 'Produto não encontrado.';
-                }
-            });
-    </script>
+    <div id="detalhes-produto">
+   
+    </div>
+    
 
     <footer class ="rodape">
         @2023 TechNova  
     </footer>
+    <script src="/js/produto.js"></script>
 </body>
 </html>
